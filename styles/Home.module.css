@@ -1,0 +1,28 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+  text-align: center ;
+}
+/*styles responsible for RWD*/
+
+.input
+{
+  border: 0px solid black;
+  margin-right: 20px;
+  background-color:white;
+ transition: all 300ms ease-in-out;
+ border-radius: 20px;
+ height: 30px;
+padding: 10px;
+color: black;
+}
+
+.h1
+{font-size:5vw;}
+
